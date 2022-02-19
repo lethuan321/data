@@ -8,3 +8,6 @@ c) Các số nguyên tố có trong mảng. (KQ: 5 7 23)
 d) Các phần tử được sắp xếp theo thứ tự tăng dần. (KQ: -2 1 5 7 15 23)
 e) Phần tử có giá trị tuyệt đối lớn nhất có trong mảng. (KQ: 23)
 }
+
+
+lkoi-k-k-ki-k-k-k
